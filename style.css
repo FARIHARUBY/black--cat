@@ -1,0 +1,119 @@
+.box1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 50px;
+    margin-top: 40px;
+}
+.box{
+    background-color:white;
+    color: rgb(158,53,53);
+    padding: 50px;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 100px;
+    
+
+}
+main {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 30px;
+    justify-content: center;
+}
+*{
+    padding: 0;
+    margin: 0px;;
+    box-sizing: border-box;
+    
+    
+}
+.Riha h1{
+    color: rgb(158, 32, 32);
+}
+.BTS h2{
+    color:white;
+    font-size: 45px;
+    margin-bottom:20px ;
+}
+form label{
+    font-size:30px ;
+    color: black;
+    font-weight: bold;
+}
+form input{
+    padding: 10px;
+}
+form textarea{
+    padding: 14px;
+}
+.babui a{
+    color: white;
+    padding: 0;
+    margin: 0;
+    grid-template-columns: auto auto;
+}
+
+
+
+
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:black;
+    color: white;
+    padding: 30px;
+    
+    
+}
+.nav-menu a{
+    text-decoration:none;
+    color:white;
+    padding: 30px;
+    margin: 15px;
+    font-size:30px;
+    
+}
+body{
+    background-color:rgb(146, 36, 36);
+}
+footer{
+    background-color:black;
+    color:rgb(158, 53, 53) ;
+    display: flex;
+    justify-content:space-between ;
+    padding: 30px;
+
+}
+footer p{
+     color: white;
+     font-size:30px ;
+}
+
+    
+
+.left-content{
+    margin: 40px;
+    padding: 60px;
+    gap: 30px;
+}
+.left-content h1{
+    font-size:50px;
+    padding: 20px 0px;
+}
+.left-content p{
+    font-size: 25px;
+}
+.main-contact{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 500px;
+    padding: 50px;
+}
+img{
+    float: right;
+}
+
+
+
+
