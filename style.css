@@ -35,17 +35,27 @@ main {
     font-size: 45px;
     margin-bottom:20px ;
 }
+
 form label{
     font-size:30px ;
     color: black;
     font-weight: bold;
 }
+
 form input{
     padding: 10px;
+    font-size: 18px;
 }
+form button{
+    background-color: white;
+    font-size:18px ;
+    padding:20px ;
+}
+
 form textarea{
     padding: 14px;
 }
+
 .babui a{
     color: white;
     padding: 0;
